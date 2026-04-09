@@ -1,1 +1,3 @@
 fix bug in second file
+
+fix bug 2 in second file
